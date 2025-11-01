@@ -1,2 +1,2 @@
-def hello():
+def hello(session):
   return 1
