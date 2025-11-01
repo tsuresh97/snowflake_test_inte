@@ -1,2 +1,2 @@
 def hello(session):
-  return 1
+  return 10
